@@ -42,9 +42,54 @@ Each paper should not be more than 10–15 pages in length, including any data i
 
 Students are graded on the basis of active participation, commitment, quality of presentation and submitting the assignments on time. Progress during the semester and striving for improvement will be credited.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper, Part 1 - A paper on the description of the conditions of conflict in the selected city. | 30% |
-| Paper, Part 2 - Second part of the paper that would suggest a particular policy or strategic intervention to cope with violence in the selected city. | 30% |
-| Class presentation of one of the class topics. Submission of the assigned and suggested readings. | 20% |
-| Participation | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper, Part 1 - A paper on the description of the conditions of conflict in the selected city.
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper, Part 2 - Second part of the paper that would suggest a particular policy or strategic intervention to cope with violence in the selected city.
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class presentation of one of the class topics. Submission of the assigned and suggested readings.
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
