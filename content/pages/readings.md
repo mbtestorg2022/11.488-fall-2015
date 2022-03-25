@@ -44,7 +44,7 @@ Development Challenges in Conflict Zones
 
 Collier, Paul, et al. _Breaking the Conflict Trap: Civil War and Development Policy_. World Bank Publications, 2003, pp. 1–50 and 119–88. ISBN: 9780821354810. \[Preview with [Google Books](http://books.google.com/books?id=3PLqetBxiOEC&pg=PAfrontcover)\]
 
-Humphreys, Macartan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Economics and Violent Conflict." (PDF)](http://www.unicef.org/socialpolicy/files/Economics_and_Violent_Conflict.pdf) _Harvard Program on Humanitarian Policy and Conflict Research_ (2003).
+Humphreys, Macartan. ["Economics and Violent Conflict." (PDF)](http://www.unicef.org/socialpolicy/files/Economics_and_Violent_Conflict.pdf) _Harvard Program on Humanitarian Policy and Conflict Research_ (2003).
 
 Esser, Daniel. "[The City as Arena, Hub and Prey—Patterns of Violence in Kabul and Karachi](http://dx.doi.org/10.1177/095624780401600219)." _Environment and Urbanization_ 16, no. 2 (2004): 31–38.
 
@@ -108,7 +108,7 @@ Violent Conflict Multiple Definitions (cont.)
 
 ### Student-led Discussion Readings
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Guns in the City: Urban Landscapes of Armed Violence." (PDF - 4.5MB)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7D3E29B4DD6B5BEFB31BD62034BBA61C?doi=10.1.1.174.6030&rep=rep1&type=pdf) _Small Arms Survey_ (2007): 162–256. Human security for an Urban Century, Selected Readings.
+["Guns in the City: Urban Landscapes of Armed Violence." (PDF - 4.5MB)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7D3E29B4DD6B5BEFB31BD62034BBA61C?doi=10.1.1.174.6030&rep=rep1&type=pdf) _Small Arms Survey_ (2007): 162–256. Human security for an Urban Century, Selected Readings.
 
 Rodgers, Dennis, Jo Beall, and S M Ravi Kanbur, eds. "Urban Violence, Quality of Life, and the Future of Latin American Cities: The Dismal Record So Far, and the Search for New Analytical Frameworks to Sustain a Bias Towards Hope." I_n Latin American Urban Development into the Twenty First Century: Towards a Renewed Perspective on the City_. Palgrave Macmillan, 2012. ISBN: 9780230371545.
 
@@ -184,7 +184,7 @@ Slum Wars
 {{< tdopen >}}
 
 
-Rodgers, Dennis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Slum Wars of the 21st Century: The New Geography of Conflict in Central America](http://r4d.dfid.gov.uk/Output/173191/)." Crisis States Research Centre Working Paper no. 10_,_ 2007.
+Rodgers, Dennis. "[Slum Wars of the 21st Century: The New Geography of Conflict in Central America](http://r4d.dfid.gov.uk/Output/173191/)." Crisis States Research Centre Working Paper no. 10_,_ 2007.
 
 Blake, Damion. "[Shadowing the State: Violent Control and the Social Power of Jamaican Garrison Dons](http://connection.ebscohost.com/c/articles/95101181/shadowing-state-violent-control-social-power-jamaican-garrison-dons)." _Journal of Ethnographic & Qualitative Research_ 8, no. 1 (2013): 56.
 
@@ -286,7 +286,7 @@ Space and Urban Conflict (cont.)
 
 ### Student-led Discussion Readings
 
-Vaughan, Laura. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Urban 'Ghetto': The Spatial Distribution of Ethnic Minorities." (PDF - 1.8MB)](http://www.spacesyntax.net/symposia-archive/SSS1/SpSx%201st%20Symposium%2097%20-2003%20pdf/1st%20Symposium%20Vol%20II%20pdf/4%20-%20Urban%20themes/24%20Vaughan%20300.pdf) _Space Syntax Laboratory_ (1997).
+Vaughan, Laura. ["The Urban 'Ghetto': The Spatial Distribution of Ethnic Minorities." (PDF - 1.8MB)](http://www.spacesyntax.net/symposia-archive/SSS1/SpSx%201st%20Symposium%2097%20-2003%20pdf/1st%20Symposium%20Vol%20II%20pdf/4%20-%20Urban%20themes/24%20Vaughan%20300.pdf) _Space Syntax Laboratory_ (1997).
 
 Harcourt, Bernard E. _Illusion of Order: The False Promise of Broken Windows Policing_. Harvard University Press, 2001. ISBN: 9780674004726.
 
@@ -332,7 +332,7 @@ Mapping Conflict (cont.)
 
 Hagedorn, J. M. "[Race Not Space: A Revisionist History Of Gangs In Chicago](http://connection.ebscohost.com/c/articles/22188915/race-not-space-revisionist-history-gangs-chicago)." _Journal Of African American History_ 91, no. 2 (2006): 194–208.
 
-Eck, John, Spencer Chainey, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Mapping Crime: Understanding Hot Spots." (PDF - 1.6MB)](https://www.ncjrs.gov/pdffiles1/nij/209393.pdf) _National Institute of Justice_, 2005.
+Eck, John, Spencer Chainey, et al. ["Mapping Crime: Understanding Hot Spots." (PDF - 1.6MB)](https://www.ncjrs.gov/pdffiles1/nij/209393.pdf) _National Institute of Justice_, 2005.
 
 Hirschfield, Alex, and Kate Bowers. _Mapping and Analysing Crime Data : Lessons from Research and Practice_. CRC Press, 2001. ISBN: 9780748409228.
 
@@ -472,7 +472,7 @@ Peace Process and Reconciliation (cont.)
 
 ### Student-led Discussion Readings
 
-Addison, Tony. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Africa's Recovery from Conflict: Making Peace Work for the Poor: A Policy-focused summary." (PDF)](https://www.ciaonet.org/attachments/6811/uploads) Published as Policy Brief No. 6, of the UNU / World Institute of Development Economics Research book From Conflict to Recovery in Africa. 2003
+Addison, Tony. ["Africa's Recovery from Conflict: Making Peace Work for the Poor: A Policy-focused summary." (PDF)](https://www.ciaonet.org/attachments/6811/uploads) Published as Policy Brief No. 6, of the UNU / World Institute of Development Economics Research book From Conflict to Recovery in Africa. 2003
 
 Khalaf, Samir, and Philip S. Khoury. _Recovering Beirut: Urban Design and Post-War Reconstruction_. Brill Academic Publishers, 1993, pp. 101–82. ISBN: 9789004099111. \[Preview with [Google Books](http://books.google.com/books?id=Vt9QuosEK3AC&pg=PAfrontcover)\]
 

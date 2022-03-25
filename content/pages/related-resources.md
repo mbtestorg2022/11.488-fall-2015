@@ -16,7 +16,7 @@ Le Billon, Philippe. "[The Political Ecology of War: Natural Resources and Armed
 
 Ross, Michael L. "[What Do We Know about Natural Resources and Civil War?](http://dx.doi.org/10.1177/0022343304043773)" _Journal of Peace Research_ 41, no. 3 (2004): 337–56. (Sage Publications)
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Oil, Drugs, and Diamonds: How Do Natural Resources Vary in their Impact on Civil War?](https://www.laohamutuk.org/OilWeb/Bground/War/OilDrugs.pdf)"
+———. "[Oil, Drugs, and Diamonds: How Do Natural Resources Vary in their Impact on Civil War?](https://www.laohamutuk.org/OilWeb/Bground/War/OilDrugs.pdf)"
 
 Marchal, Roland. "Resilience of a City at War: Territoriality, Civil Order and Economic Exchange in Mogadishu." In _African Urban Economies: Viability, Vitality or Vitiation?_ Palgrave Macmillan, 2006. ISBN: 9781403999474. (Urban Livelihoods and Social Dynamics)
 
@@ -24,7 +24,7 @@ Webersik, Christian. "[Mogadishu: An Economy Without a State](https://www.jstor.
 
 Nenova, Tatiana. "[Private Sector Response to the Absence of Government Institutions in Somalia](http://documents.worldbank.org/curated/en/2013/07/18103588/private-sector-response-absence-government-institutions-somalia)." The World Bank Working Paper no. 80230, 2013.
 
-McDougal, Topher L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Production Firms in Civil War: The Case of Liberia." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/events-documents/2343.pdf) 2008.
+McDougal, Topher L. ["Production Firms in Civil War: The Case of Liberia." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/events-documents/2343.pdf) 2008.
 
 Caruso, Raul. "[A Model of Conflict, Appropriation and Production in a Two-sector Economy](http://dx.doi.org/10.2139/ssrn.1029317)." _Institute of Economic Policy_ (2007). Università Cattolica del Sacro Cuore di Milano.
 
@@ -36,7 +36,7 @@ Sambanis, Nicholas. "[Partition as a Solution to Ethnic War: An Empirical Critiq
 
 Weinstein, Jeremy M. "[Autonomous Recovery and International Intervention in Comparative Perspective](http://dx.doi.org/10.2139/ssrn.1114117)." Social Science Reasearc Network, 2005.
 
-Karakat, Pushkaraj, and Snehal Hannurkar. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["International Aid Cities, a By-Product of Reconstruction in Post Ware Cities." (PDF)](https://src.lafargeholcim-foundation.org/dnl/ed2dd8f7-545f-4bb6-865e-7ef796ed4eaf/F07-WK-Temp-karakat02.pdf)
+Karakat, Pushkaraj, and Snehal Hannurkar. ["International Aid Cities, a By-Product of Reconstruction in Post Ware Cities." (PDF)](https://src.lafargeholcim-foundation.org/dnl/ed2dd8f7-545f-4bb6-865e-7ef796ed4eaf/F07-WK-Temp-karakat02.pdf)
 
 Hirshleifer, Jack. "[The Dark Side of the Force: Western Economic Association International 1993 Presidential Address](http://dx.doi.org/10.1111/j.1465-7295.1994.tb01309.x)." _Economic Inquiry_ 32, no. 1 (1994). (ABI / INFORM Global)
 
@@ -66,17 +66,17 @@ Humphreys, Macartan. "[Natural Resources, Conflict, and Conflict Resolution: Unc
 
 Avishai, Bernard. "Prologue and Chapters 1–3." In _The Hebrew Republic: How Secular Democracy And Global Enterprise Will Bring Isra_. Harcourt, 2008. \[Preview with [Google Books](http://books.google.com/books?id=icplAQAAQBAJ&pg=PA1=onepage)\]
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Military Support To Stabilization, Security, Transition, and Reconstruction Operations." (PDF)](https://www.jcs.mil/Portals/36/Documents/Doctrine/concepts/joc_sstro.pdf?ver=2017-12-28-162022-680) V2.0, 2006.
+["Military Support To Stabilization, Security, Transition, and Reconstruction Operations." (PDF)](https://www.jcs.mil/Portals/36/Documents/Doctrine/concepts/joc_sstro.pdf?ver=2017-12-28-162022-680) V2.0, 2006.
 
-Jha, Saumitra. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Trade, Institutions and Religious Tolerance: Evidence from India." (PDF - 1.3MB)](http://www.cid.harvard.edu/neudc07/docs/neudc07_s1_p15_jha.pdf) 2007.
+Jha, Saumitra. ["Trade, Institutions and Religious Tolerance: Evidence from India." (PDF - 1.3MB)](http://www.cid.harvard.edu/neudc07/docs/neudc07_s1_p15_jha.pdf) 2007.
 
 Treistman, Jeffrey P. "[Victory Over Terrorism: Essential Services as a Counterinsurgency Strategy](https://www.questia.com/magazine/1G1-195427702/victory-over-terrorism-essential-services-as-counterinsurgency)." _Joint Force Quarterly_, April 2009.
 
-Davis, Diane E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Urban Resilience and Chronic Violence." (PDF - 3.8MB)](http://web.mit.edu/cis/urbanresiliencereport2012.pdf)
+Davis, Diane E. ["Urban Resilience and Chronic Violence." (PDF - 3.8MB)](http://web.mit.edu/cis/urbanresiliencereport2012.pdf)
 
 McDougal, Topher L. "Interstitial Economies: Production and Predation across the Rural-Urban Divide."
 
-Rabbat, Nasser. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Circling the Square." (PDF - 3.5MB)](http://sites.duke.edu/rethinkingglobalcities/files/2014/09/Rabbat-AF-4.11-Circling-the-Square.pdf)
+Rabbat, Nasser. ["Circling the Square." (PDF - 3.5MB)](http://sites.duke.edu/rethinkingglobalcities/files/2014/09/Rabbat-AF-4.11-Circling-the-Square.pdf)
 
 United Nations Human Settlements Programme. _Young People, Participation and Sustainable Development in an Urbanizing World_. United Nations Human Settlements Programme, 2012. ISBN: 9789211324761.
 
