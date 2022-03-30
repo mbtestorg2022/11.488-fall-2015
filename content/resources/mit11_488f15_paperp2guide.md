@@ -5,6 +5,7 @@ description: Assignment to select a particular issue of violent manifestation of
   to engage with such selected issue.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/7c1f16b7dc1720605eb3f0ec6e7970c9_MIT11_488F15_PaperP2Guide.pdf
 file_type: application/pdf
+parent_uid: 8a4527b6-1e4d-765c-9991-a7e30b97715b
 resourcetype: Document
 title: Part 2 Guidelines - Intervening in Urban Conflict
 uid: 7c1f16b7-dc17-2060-5eb3-f0ec6e7970c9
